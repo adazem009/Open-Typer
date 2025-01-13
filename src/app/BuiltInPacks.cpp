@@ -95,8 +95,8 @@ QStringList BuiltInPacks::keyboardLayoutXkb(QString keyboardLayout)
 		return { "us", "basic" };
 	else if(keyboardLayout == "SK QWERTZ")
 		return { "sk", "basic" };
-else if(keyboardLayout == "FR AZERTY")
-return { "fr", "basic" };
+    else if(keyboardLayout == "FR AZERTY")
+        return { "fr", "basic" };
 	else if(keyboardLayout == "SK QWERTY")
 		return { "sk", "qwerty" };
 	else if(keyboardLayout == "CZ QWERTZ")
@@ -105,8 +105,8 @@ return { "fr", "basic" };
 		return { "cz", "qwerty" };
 	else if(keyboardLayout == "DE QWERTZ (DE)")
 		return { "de", "basic" };
-else if(keyboardLayout == "FR AZERTY (FR)")
-return { "fr", "latin" };
+    else if(keyboardLayout == "FR AZERTY (FR)")
+        return { "fr", "latin" };
 	else if(keyboardLayout == "DE QWERTY (DE)")
 		return { "de", "qwerty" };
 	else
