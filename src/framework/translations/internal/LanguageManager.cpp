@@ -92,6 +92,7 @@ const QString LanguageManager::boxLangItemTemplate = QString("%1 (%2)");
 const QList<LanguageManager::LanguageCountry> LanguageManager::supportedLanguagesList = {
 	{ QLocale::German, QLocale::Germany },
 	{ QLocale::English, QLocale::UnitedStates },
+	{ QLocale::French, QLocale::France },
 	{ QLocale::Slovak, QLocale::Slovakia },
 	{ QLocale::Russian, QLocale::Russia },
 	{ QLocale::Ukrainian, QLocale::Ukraine },

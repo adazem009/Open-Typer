@@ -5,6 +5,7 @@
         <file>de_DE-QWERTY-A</file>
         <file>de_DE-QWERTZ-A</file>
         <file>en_US-default-A</file>
+        <file>fr_FR-AZERTY-A</file>
         <file>sk_SK-QWERTY-A</file>
         <file>sk_SK-QWERTZ-A</file>
     </qresource>
